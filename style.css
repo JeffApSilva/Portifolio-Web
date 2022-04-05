@@ -1,0 +1,31 @@
+body{
+    background-image: url(./photowebtrybe/Art\ Nouveau\ Desktop\ Wallpapers.jpg)
+}
+
+h1, h3 {
+    color: antiquewhite;
+}
+        
+.Nomeabertura{ 
+    border: 1px solid white;
+    padding: 10px;
+    width: max-content;
+}
+
+p, ul, a{
+    color: aliceblue;
+}
+
+.foto{
+    border: 1px solid red
+}
+
+
+.apresentação {
+    border: 1px solid red;
+    
+}
+
+.habilidades{
+    border: 1px solid red;
+}
